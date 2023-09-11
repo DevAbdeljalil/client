@@ -36,32 +36,140 @@
     {
       "url": "https://images.unsplash.com/photo-1629812456605-4a044aa38fbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fEFuaW1hbHN8ZW58MHwxfDB8fHww&auto=format&fit=crop&w=600&q=60",
       "name": "Animals",
-      "total": "15 Photos"
+      "total": "15 Photos",
+      "Animals": [
+        {
+            "url": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 1"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 2"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 3"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 4"
+        }
+    ]
     },
     {
       "url": "https://images.unsplash.com/photo-1579033014049-f33d9b14d37e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3RyZWV0JTIwUGhvdG9ncmFwaHl8ZW58MHwxfDB8fHww&auto=format&fit=crop&w=600&q=60",
-      "name": "Street Photography",
-      "total": "15 Photos"
+      "name": "Street",
+      "total": "15 Photos",
+      "Street": [
+        {
+            "url": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 1"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 2"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 3"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 4"
+        }
+    ]
     },
     {
       "url": "https://images.unsplash.com/photo-1508325732378-00eafff6c504?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fFN1bnNldHxlbnwwfDF8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
       "name": "Sunset",
-      "total": "15 Photos"
+      "total": "15 Photos",
+      "Sunset": [
+        {
+            "url": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 1"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 2"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 3"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 4"
+        }
+    ]
     },
     {
       "url": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8T2NlYW58ZW58MHwxfDB8fHww&auto=format&fit=crop&w=600&q=60",
       "name": "Ocean",
-      "total": "15 Photos"
+      "total": "15 Photos",
+      "Ocean": [
+        {
+            "url": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 1"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 2"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 3"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 4"
+        }
+    ]
     },
     {
       "url": "https://images.unsplash.com/photo-1507908708918-778587c9e563?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGdhbGF4eXxlbnwwfDF8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
       "name": "Galaxy",
-      "total": "15 Photos"
+      "total": "15 Photos",
+      "Galaxy": [
+        {
+            "url": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 1"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 2"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 3"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 4"
+        }
+    ]
     },
     {
       "url": "https://images.unsplash.com/photo-1567359781514-3b964e2b04d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWJzdHJhY3R8ZW58MHwxfDB8fHww&auto=format&fit=crop&w=600&q=60",
       "name": "Abstract",
-      "total": "15 Photos"
+      "total": "15 Photos",
+      "Abstract": [
+        {
+            "url": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 1"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 2"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 3"
+        },
+        {
+            "url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name": "Wallpaper 4"
+        }
+    ]
     }
   ]
   
