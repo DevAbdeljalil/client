@@ -25,7 +25,7 @@
             "Switch": "fan"
         }
     ],
- {
+ 
   "coupon": [
     {
       "name": "FABFALL20",
@@ -78,6 +78,6 @@
       "image": "https://devabdeljalil.github.io/client/habar/ic_coupon.png"
     }
   ]
-}
+
 
 }
