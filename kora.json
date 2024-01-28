@@ -1,52 +1,101 @@
 {
   "matches": [
     {
-      "league": "الدوري الإنكليزي الممتاز",
-      "date": "سبت 20 يناير",
-      "time": "13:30",
+      "league": "كأس الأمم الإفريقية",
+      "date": "أحد 28 يناير",
+      "time": "21:00",
       "teams": [
         {
-          "name": "أرسنال",
-          "logoUrl": "https://example.com/arsenal_logo.png"
+          "name": "مصر",
+          "logoUrl": "https://omo.akamai.opta.net/image.php?secure=true&h=omo.akamai.opta.net&sport=football&entity=team&description=badges&dimensions=150&id=1225"
         },
         {
-          "name": "كريستال بالاس",
-          "logoUrl": "https://example.com/crystal_palace_logo.png"
+          "name": "جمهورية الكونغو الديمقراطية",
+          "logoUrl": "https://omo.akamai.opta.net/image.php?secure=true&h=omo.akamai.opta.net&sport=football&entity=team&description=badges&dimensions=150&id=1222"
         }
       ],
       "streams": [
         {
+          "quality": "4K",
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992461"
+        },
+        {
+          "quality": "UHD",
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992463"
+        },
+        {
           "quality": "HD",
-          "url": "https://example.com/stream_hd"
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992459"
         },
         {
           "quality": "SD",
-          "url": "https://example.com/stream_sd"
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992457"
         }
       ]
     },
     {
-      "league": "الدوري الإسباني",
-      "date": "جمعة 25 يناير",
-      "time": "15:45",
+      "league": "كأس الأمم الإفريقية",
+      "date": "إثنين 29 يناير",
+      "time": "18:00",
       "teams": [
         {
-          "name": "برشلونة",
-          "logoUrl": "https://example.com/barcelona_logo.png"
+          "name": "جزر الرأس الأخضر",
+          "logoUrl": "https://omo.akamai.opta.net/image.php?secure=true&h=omo.akamai.opta.net&sport=football&entity=team&description=badges&dimensions=150&id=1529"
         },
         {
-          "name": "ريال مدريد",
-          "logoUrl": "https://example.com/real_madrid_logo.png"
+          "name": "موريتانيا",
+          "logoUrl": "https://omo.akamai.opta.net/image.php?secure=true&h=omo.akamai.opta.net&sport=football&entity=team&description=badges&dimensions=150&id=1855"
+        }
+      ],
+      "streams": [
+          {
+            "quality": "4K",
+            "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992461"
+          },
+          {
+            "quality": "UHD",
+            "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992463"
+          },
+          {
+            "quality": "HD",
+            "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992459"
+          },
+          {
+            "quality": "SD",
+            "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992457"
+          }
+      ]
+    },
+    {
+      "league": "كأس الأمم الإفريقية",
+      "date": "إثنين 29 يناير",
+      "time": "21:00",
+      "teams": [
+        {
+          "name": "السنغال",
+          "logoUrl": "https://omo.akamai.opta.net/image.php?secure=true&h=omo.akamai.opta.net&sport=football&entity=team&description=badges&dimensions=150&id=1226"
+        },
+        {
+          "name": "ساحل العاج",
+          "logoUrl": "https://omo.akamai.opta.net/image.php?secure=true&h=omo.akamai.opta.net&sport=football&entity=team&description=badges&dimensions=150&id=1221"
         }
       ],
       "streams": [
         {
+          "quality": "4K",
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992461"
+        },
+        {
+          "quality": "UHD",
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992463"
+        },
+        {
           "quality": "HD",
-          "url": "https://example.com/stream_hd"
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992459"
         },
         {
           "quality": "SD",
-          "url": "https://example.com/stream_sd"
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992457"
         }
       ]
     }
