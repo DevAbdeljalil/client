@@ -48,22 +48,22 @@
         }
       ],
       "streams": [
-          {
-            "quality": "4K",
-            "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992461"
-          },
-          {
-            "quality": "UHD",
-            "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992463"
-          },
-          {
-            "quality": "HD",
-            "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992459"
-          },
-          {
-            "quality": "SD",
-            "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992457"
-          }
+        {
+          "quality": "4K",
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992461"
+        },
+        {
+          "quality": "UHD",
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992463"
+        },
+        {
+          "quality": "HD",
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992459"
+        },
+        {
+          "quality": "SD",
+          "url": "http://line.ottcst.com:80/vV8IZdy2ye9a9sm/DNFCYC5W9X/992457"
+        }
       ]
     },
     {
