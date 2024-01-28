@@ -1,0 +1,54 @@
+{
+  "matches": [
+    {
+      "league": "الدوري الإنكليزي الممتاز",
+      "date": "سبت 20 يناير",
+      "time": "13:30",
+      "teams": [
+        {
+          "name": "أرسنال",
+          "logoUrl": "https://example.com/arsenal_logo.png"
+        },
+        {
+          "name": "كريستال بالاس",
+          "logoUrl": "https://example.com/crystal_palace_logo.png"
+        }
+      ],
+      "streams": [
+        {
+          "quality": "HD",
+          "url": "https://example.com/stream_hd"
+        },
+        {
+          "quality": "SD",
+          "url": "https://example.com/stream_sd"
+        }
+      ]
+    },
+    {
+      "league": "الدوري الإسباني",
+      "date": "جمعة 25 يناير",
+      "time": "15:45",
+      "teams": [
+        {
+          "name": "برشلونة",
+          "logoUrl": "https://example.com/barcelona_logo.png"
+        },
+        {
+          "name": "ريال مدريد",
+          "logoUrl": "https://example.com/real_madrid_logo.png"
+        }
+      ],
+      "streams": [
+        {
+          "quality": "HD",
+          "url": "https://example.com/stream_hd"
+        },
+        {
+          "quality": "SD",
+          "url": "https://example.com/stream_sd"
+        }
+      ]
+    }
+  ]
+}
