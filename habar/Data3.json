@@ -6,9 +6,9 @@
       "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
       "AdmobAppOpen": "ca-app-pub-3940256099942544/9257395921",
 
-      "FanInterstitial": "YOUR_PLACEMENT_ID",
-      "FanBanner": "YOUR_PLACEMENT_ID",
-      "FanNative": "YOUR_PLACEMENT_ID",
+      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+      "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
 
       "MaxInterstitial": "",
       "MaxBanner": "",
@@ -17,9 +17,9 @@
       "AdsCount": "2",
       "ActiveApp": "yes",
 
-      "AdsSwitchBanner": "fan",
-      "AdsSwitchInterstitial": "fan",
-      "AdsSwitchNative": "fan",
+      "AdsSwitchBanner": "admob",
+      "AdsSwitchInterstitial": "admob",
+      "AdsSwitchNative": "admob",
 
       "SiteName1": "Aliexpress",
       "SiteUrl1": "https://www.aliexpress.com/",
