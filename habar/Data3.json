@@ -17,9 +17,9 @@
       "AdsCount": "2",
       "ActiveApp": "yes",
 
-      "AdsSwitchBanner": "admob",
-      "AdsSwitchInterstitial": "admob",
-      "AdsSwitchNative": "admob",
+      "AdsSwitchBanner": "fan",
+      "AdsSwitchInterstitial": "fan",
+      "AdsSwitchNative": "fan",
 
       "SiteName1": "Aliexpress",
       "SiteUrl1": "https://www.aliexpress.com/",
