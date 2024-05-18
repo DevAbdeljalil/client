@@ -13,9 +13,9 @@
       "AdsCount": "2",
       "ActiveApp": "yes",
 
-      "AdsSwitchBanner": "fan",
-      "AdsSwitchInterstitial": "fan",
-      "AdsSwitchNative": "fan",
+      "AdsSwitchBanner": "admob",
+      "AdsSwitchInterstitial": "admob",
+      "AdsSwitchNative": "admob",
 
       "UrlPdf": "https://books.islamway.net/1/631/15_AShmrani_JameMtoonIlmiah.pdf"
 
