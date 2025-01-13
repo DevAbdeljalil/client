@@ -26,15 +26,19 @@
   "native": [
     {
       "url": "https://play.google.com/store/apps/details?id=com.lilithgame.roc.gp&pcampaignid",
-      "img": "https://example.com/"
+      "img": "https://devabdeljalil.github.io/client/rachid/ads1.png"
     },
     {
       "url": "https://play.google.com/store/apps/details?id=com.lilithgame.isoland2.gp.mf",
-      "img": "https://example.com/"
+      "img": "https://devabdeljalil.github.io/client/rachid/ads2.png"
     },
     {
       "url": "https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp",
-      "img": "https://example.com/"
+      "img": "https://devabdeljalil.github.io/client/rachid/ads3.png"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp",
+      "img": "https://devabdeljalil.github.io/client/rachid/ads4.png"
     }
   ],
 
