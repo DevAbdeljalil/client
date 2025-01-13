@@ -1,30 +1,44 @@
 {
-    "data": [
-        {
-            "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-            "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
-            "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-            "AdmobAppOpen": "ca-app-pub-3940256099942544/9257395921",
+  "data": [
+    {
+      "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdmobAppOpen": "ca-app-pub-3940256099942544/9257395921",
 
-            "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
-            "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
-            "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+      "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
 
-            "UnityGame": "",
-            "UnityInterstitial": "Interstitial_Android",
-            "UnityBanner": "Banner_Android",
+      "MaxInterstitial": "d46fe46bea146baf",
+      "MaxBanner": "3ee847aa4f209d85",
+      "MaxNative": "46056dc83ada34a2",
 
-            "MaxInterstitial": "d46fe46bea146baf",
-            "MaxBanner": "3ee847aa4f209d85",
-            "MaxNative": "46056dc83ada34a2",
+      "AdsSwitchBanner": "admob",
+      "AdsSwitchInterstitial": "admob",
+      "AdsSwitchNative": "admob",
 
-            "IronKey": "",
+      "AdsCount": "5",
+      "ActiveApp": "yes"
+    }
+  ],
 
-            "AdsCount": "2",
-            "ActiveApp": "yes",
-            "AdsSwitchBanner": "admob",
-            "AdsSwitchInterstitial": "admob",
-            "AdsSwitchNative": "admob"
-        }
-    ]
+  "list": [
+    {
+      "title": "Welcome to Our App",
+      "content": "Explore the best features and enjoy seamless experiences.",
+      "img": "https://example.com/images/welcome.png"
+    },
+    {
+      "title": "Special Offer",
+      "content": "Get 50% off on your first purchase. Limited time offer!",
+      "img": "https://example.com/images/offer.png"
+    },
+    {
+      "title": "Stay Connected",
+      "content": "Follow us on social media for the latest updates.",
+      "img": "https://example.com/images/social.png"
+    }
+  ]
+
 }
