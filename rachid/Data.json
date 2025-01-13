@@ -44,17 +44,31 @@
 
   "list": [
     {
-      "title": "Welcome to Our App",
+      "title": "s1",
       "content": "Explore the best features and enjoy seamless experiences.",
       "img": "https://example.com/images/welcome.png"
     },
     {
-      "title": "Special Offer",
+      "title": "s2",
       "content": "Get 50% off on your first purchase. Limited time offer!",
       "img": "https://example.com/images/offer.png"
     },
     {
-      "title": "Stay Connected",
+      "title": "s3",
+      "content": "Follow us on social media for the latest updates.",
+      "img": "https://example.com/images/social.png"
+    },{
+      "title": "s4",
+      "content": "Explore the best features and enjoy seamless experiences.",
+      "img": "https://example.com/images/welcome.png"
+    },
+    {
+      "title": "s5",
+      "content": "Get 50% off on your first purchase. Limited time offer!",
+      "img": "https://example.com/images/offer.png"
+    },
+    {
+      "title": "s6",
       "content": "Follow us on social media for the latest updates.",
       "img": "https://example.com/images/social.png"
     }
