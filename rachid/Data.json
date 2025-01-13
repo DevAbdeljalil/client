@@ -16,60 +16,30 @@
 
       "AdsSwitchBanner": "admob",
       "AdsSwitchInterstitial": "admob",
-      "AdsSwitchNative": "admob",
+      "AdsSwitchNative": "own",
 
-      "AdsCount": "5",
+      "AdsCount": "4",
       "ActiveApp": "yes"
+    }
+  ],
+
+  "native": [
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.roc.gp&pcampaignid",
+      "img": "https://example.com/"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.isoland2.gp.mf",
+      "img": "https://example.com/"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp",
+      "img": "https://example.com/"
     }
   ],
 
   "list": [
     {
-      "title": "Welcome to Our App",
-      "content": "Explore the best features and enjoy seamless experiences.",
-      "img": "https://example.com/images/welcome.png"
-    },
-    {
-      "title": "Special Offer",
-      "content": "Get 50% off on your first purchase. Limited time offer!",
-      "img": "https://example.com/images/offer.png"
-    },
-    {
-      "title": "Stay Connected",
-      "content": "Follow us on social media for the latest updates.",
-      "img": "https://example.com/images/social.png"
-    },
-     {
-      "title": "Welcome to Our App",
-      "content": "Explore the best features and enjoy seamless experiences.",
-      "img": "https://example.com/images/welcome.png"
-    },
-    {
-      "title": "Special Offer",
-      "content": "Get 50% off on your first purchase. Limited time offer!",
-      "img": "https://example.com/images/offer.png"
-    },
-    {
-      "title": "Stay Connected",
-      "content": "Follow us on social media for the latest updates.",
-      "img": "https://example.com/images/social.png"
-    },
-     {
-      "title": "Welcome to Our App",
-      "content": "Explore the best features and enjoy seamless experiences.",
-      "img": "https://example.com/images/welcome.png"
-    },
-    {
-      "title": "Special Offer",
-      "content": "Get 50% off on your first purchase. Limited time offer!",
-      "img": "https://example.com/images/offer.png"
-    },
-    {
-      "title": "Stay Connected",
-      "content": "Follow us on social media for the latest updates.",
-      "img": "https://example.com/images/social.png"
-    },
-     {
       "title": "Welcome to Our App",
       "content": "Explore the best features and enjoy seamless experiences.",
       "img": "https://example.com/images/welcome.png"
