@@ -17,19 +17,19 @@
       "streams": [
         {
           "quality": "جودة عالية الدقة",
-          "url": "http://204.52.191.121/live/play/Y0dKVE9YWXliRUpaUld3MVExVmhkak5VVkZWbmNtaElWRE4zTDBGdFlUSkZNamxsTW1reE9HSlpkejA9/544431"
+          "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/1.ts"
         },
         {
           "quality": "جودة فائقة الدقة",
-          "url": "http://204.52.191.121/live/play/WjBFeFNraHdOWGw1YkhwVFlrdEVTWEI0Y0VkQ2QwMUNlVmcwWlVzM1dVNUNhMVpQTTFsUVpHbGFiejA9/544431"
+          "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/1.ts"
         },
         {
           "quality": "جودة عالية",
-          "url": "http://204.52.191.121/live/play/WjBFeFNraHdOWGw1YkhwVFlrdEVTWEI0Y0VkQ2QwMUNlVmcwWlVzM1dVNUNhMVpQTTFsUVpHbGFiejA9/544431"
+          "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/33.ts"
         },
         {
           "quality": "جودة عادية",
-          "url": "http://204.52.191.121/live/play/WjBFeFNraHdOWGw1YkhwVFlrdEVTWEI0Y0VkQ2QwMUNlVmcwWlVzM1dVNUNhMVpQTTFsUVpHbGFiejA9/544431"
+          "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/45.ts"
         }
       ]
     },
