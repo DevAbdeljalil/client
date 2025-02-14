@@ -1,30 +1,207 @@
 {
   "yesterday": [
     {
-      "Cup-id": 649,
-      "Cup-Name": "الدوري السعودي",
-      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=649.png",
-      "Match-id": 4181681,
+      "Match-id": 4147261,
       "Team-Right": {
-        "Name": "الأخدود",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=55794.png",
+        "Name": "برايتون",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=38.png",
+        "Goal": 0
+      },
+      "Time-Start": "2025-02-14T23:00",
+      "Time-End": "2025-02-15T01:00",
+      "Team-Left": {
+        "Name": "تشيلسي",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=106.png",
+        "Goal": 0
+      },
+      "Cup-Name": "الدوري الإنجليزي",
+      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=7.png",
+      "Tv": "beIN SPORT 1",
+      "Mic": "علي سعيد الكعبي",
+      "Match-Status": "لم تبدأ",
+      "links": [
+        {
+          "label": "SD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/45.ts"
+        },
+        {
+          "label": "HD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/33.ts"
+        },
+        {
+          "label": "FHD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/1.ts"
+        }
+      ]
+    },
+    {
+      "Match-id": 4147692,
+      "Team-Right": {
+        "Name": "جيرونا",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=175.png",
+        "Goal": 0
+      },
+      "Time-Start": "2025-02-14T23:00",
+      "Time-End": "2025-02-15T01:00",
+      "Team-Left": {
+        "Name": "خيتافي",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=140.png",
+        "Goal": 0
+      },
+      "Cup-Name": "الدوري الإسباني",
+      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=11.png",
+      "Tv": "beIN SPORT 3",
+      "Mic": "محمد بركات",
+      "Match-Status": "لم تبدأ",
+      "links": [
+        {
+          "label": "SD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/47.ts"
+        },
+        {
+          "label": "HD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/35.ts"
+        },
+        {
+          "label": "FHD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/3.ts"
+        }
+      ]
+    },
+    {
+      "Cup-id": 17,
+      "Cup-Name": "الدوري الإيطالي",
+      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=17.png",
+      "Match-id": 4167647,
+      "Team-Right": {
+        "Name": "بولونيا",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=245.png",
         "Goal": 0,
         "Penalty": null
       },
       "Team-Left": {
-        "Name": "ضمك",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=24241.png",
+        "Name": "تورينو",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=235.png",
         "Goal": 0,
         "Penalty": null
       },
-      "Time-Start": "2025-02-13T17:10",
-      "Time-End": "2025-02-13T19:10",
+      "Time-Start": "2025-02-14T22:45",
+      "Time-End": "2025-02-15T00:45",
+      "Time-Zone": "+03:00",
+      "Time-Now": -1,
+      "Tv": "AD Premium 1",
+      "Mic": "حازم عبدالسلام",
+      "Match-Url": "bologna-vs-torino",
+      "Match-Status": "لم تبدأ",
+      "Win-Info": null,
+      "links": [
+        {
+          "label": "SD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/119.ts"
+        },
+        {
+          "label": "HD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/119.ts"
+        },
+        {
+          "label": "FHD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/119.ts"
+        }
+      ]
+    },
+    {
+      "Match-id": 4167977,
+      "Team-Right": {
+        "Name": "أوغسبورغ",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=358.png",
+        "Goal": 0
+      },
+      "Time-Start": "2025-02-14T22:30",
+      "Time-End": "2025-02-15T00:30",
+      "Team-Left": {
+        "Name": "لايبزيج",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=7171.png",
+        "Goal": 0
+      },
+      "Cup-Name": "الدوري الألماني",
+      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=25.png",
+      "Tv": "beIN SPORT 5",
+      "Mic": "نوفل باشي",
+      "Match-Status": "لم تبدأ",
+      "links": [
+        {
+          "label": "SD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/49.ts"
+        },
+        {
+          "label": "HD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/37.ts"
+        },
+        {
+          "label": "FHD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/5.ts"
+        }
+      ]
+    },
+    {
+      "Match-id": 4152502,
+      "Team-Right": {
+        "Name": "بريست",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=534.png",
+        "Goal": 0
+      },
+      "Time-Start": "2025-02-14T22:45",
+      "Time-End": "2025-02-15T00:45",
+      "Team-Left": {
+        "Name": "أوكسير",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=476.png",
+        "Goal": 0
+      },
+      "Cup-Name": "الدوري الفرنسي",
+      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=35.png",
+      "Tv": "beIN SPORT 4",
+      "Mic": "جواد بدة",
+      "Match-Status": "لم تبدأ",
+      "links": [
+        {
+          "label": "SD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/48.ts"
+        },
+        {
+          "label": "HD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/36.ts"
+        },
+        {
+          "label": "FHD",
+          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/4.ts"
+        }
+      ]
+    },
+    {
+      "Cup-id": 649,
+      "Cup-Name": "الدوري السعودي",
+      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=649.png",
+      "Match-id": 4181686,
+      "Team-Right": {
+        "Name": "العروبة",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=13344.png",
+        "Goal": 0,
+        "Penalty": null
+      },
+      "Team-Left": {
+        "Name": "الخلود",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=55800.png",
+        "Goal": 0,
+        "Penalty": null
+      },
+      "Time-Start": "2025-02-14T17:10",
+      "Time-End": "2025-02-14T19:10",
       "Time-Zone": "+03:00",
       "Time-Now": -1,
       "Tv": "SSC EXTRA 2",
-      "Mic": "سعد يحيى",
-      "Match-Url": "al-akhdoud-vs-dhamk",
-      "Match-Status": "انتهت",
+      "Mic": "أحمد النفيسه",
+      "Match-Url": "al-oruba-vs-al-khlood",
+      "Match-Status": "لم تبدأ",
       "Win-Info": null,
       "links": [
         {
@@ -45,27 +222,27 @@
       "Cup-id": 649,
       "Cup-Name": "الدوري السعودي",
       "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=649.png",
-      "Match-id": 4181680,
+      "Match-id": 4181684,
       "Team-Right": {
-        "Name": "الشباب",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=8945.png",
-        "Goal": 2,
+        "Name": "الاتفاق",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=8943.png",
+        "Goal": 0,
         "Penalty": null
       },
       "Team-Left": {
-        "Name": "القادسية",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=8947.png",
-        "Goal": 3,
+        "Name": "الفتح",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=8942.png",
+        "Goal": 0,
         "Penalty": null
       },
-      "Time-Start": "2025-02-13T18:25",
-      "Time-End": "2025-02-13T20:25",
+      "Time-Start": "2025-02-14T18:05",
+      "Time-End": "2025-02-14T20:05",
       "Time-Zone": "+03:00",
       "Time-Now": -1,
       "Tv": "SSC EXTRA 1",
-      "Mic": "عيسى الحربين",
-      "Match-Url": "al-shabab-riyadh-vs-qadisiya",
-      "Match-Status": "انتهت",
+      "Mic": "راشد الدوسري",
+      "Match-Url": "al-ettifaq-vs-al-fateh",
+      "Match-Status": "لم تبدأ",
       "Win-Info": null,
       "links": [
         {
@@ -83,364 +260,31 @@
       ]
     },
     {
-      "Match-id": 4367573,
-      "Team-Right": {
-        "Name": "فنربخشة",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=946.png",
-        "Goal": 3
-      },
-      "Time-Start": "2025-02-13T20:45",
-      "Time-End": "2025-02-13T22:45",
-      "Team-Left": {
-        "Name": "أندرلخت",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=1173.png",
-        "Goal": 0
-      },
-      "Cup-Name": "الدوري الأوروبي - بلاي اوف",
-      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=573.png",
-      "Tv": "beIN SPORT 1",
-      "Mic": "نوفل باشي",
-      "Match-Status": "انتهت",
-      "links": [
-        {
-          "label": "SD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/45.ts"
-        },
-        {
-          "label": "HD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/33.ts"
-        },
-        {
-          "label": "FHD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/1.ts"
-        }
-      ]
-    },
-    {
-      "Match-id": 4367567,
-      "Team-Right": {
-        "Name": "أونيون سان جيلواز",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=1204.png",
-        "Goal": 0
-      },
-      "Time-Start": "2025-02-13T20:45",
-      "Time-End": "2025-02-13T22:45",
-      "Team-Left": {
-        "Name": "أياكس",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=690.png",
-        "Goal": 2
-      },
-      "Cup-Name": "الدوري الأوروبي - بلاي اوف",
-      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=573.png",
-      "Tv": "beIN SPORT 3",
-      "Mic": "محمد بركات",
-      "Match-Status": "انتهت",
-      "links": [
-        {
-          "label": "SD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/47.ts"
-        },
-        {
-          "label": "HD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/35.ts"
-        },
-        {
-          "label": "FHD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/3.ts"
-        }
-      ]
-    },
-    {
-      "Match-id": 4367565,
-      "Team-Right": {
-        "Name": "ميتييلاند",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=1823.png",
-        "Goal": 1
-      },
-      "Time-Start": "2025-02-13T20:45",
-      "Time-End": "2025-02-13T22:45",
-      "Team-Left": {
-        "Name": "ريال سوسيداد",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=154.png",
-        "Goal": 2
-      },
-      "Cup-Name": "الدوري الأوروبي - بلاي اوف",
-      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=573.png",
-      "Tv": "beIN SPORT 2",
-      "Mic": "محمد السعدي",
-      "Match-Status": "انتهت",
-      "links": [
-        {
-          "label": "SD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/46.ts"
-        },
-        {
-          "label": "HD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/34.ts"
-        },
-        {
-          "label": "FHD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/2.ts"
-        }
-      ]
-    },
-    {
-      "Match-id": 4367558,
-      "Team-Right": {
-        "Name": "فيرينتسفاروشي",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=6020.png",
-        "Goal": 1
-      },
-      "Time-Start": "2025-02-13T20:45",
-      "Time-End": "2025-02-13T22:45",
-      "Team-Left": {
-        "Name": "فيكتوريا بلزن",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=1796.png",
-        "Goal": 0
-      },
-      "Cup-Name": "الدوري الأوروبي - بلاي اوف",
-      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=573.png",
-      "Tv": "beIN SPORT 4",
-      "Mic": "أحمد عبده",
-      "Match-Status": "انتهت",
-      "links": [
-        {
-          "label": "SD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/48.ts"
-        },
-        {
-          "label": "HD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/36.ts"
-        },
-        {
-          "label": "FHD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/4.ts"
-        }
-      ]
-    },
-    {
-      "Match-id": 4367571,
-      "Team-Right": {
-        "Name": "تفينتي",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=696.png",
-        "Goal": 2
-      },
-      "Time-Start": "2025-02-13T23:00",
-      "Time-End": "2025-02-14T01:00",
-      "Team-Left": {
-        "Name": "بودو جليمت",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=1978.png",
-        "Goal": 1
-      },
-      "Cup-Name": "الدوري الأوروبي - بلاي اوف",
-      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=573.png",
-      "Tv": "beIN SPORT 3",
-      "Mic": "جواد بده",
-      "Match-Status": "انتهت",
-      "links": [
-        {
-          "label": "SD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/47.ts"
-        },
-        {
-          "label": "HD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/35.ts"
-        },
-        {
-          "label": "FHD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/3.ts"
-        }
-      ]
-    },
-    {
-      "Match-id": 4367569,
-      "Team-Right": {
-        "Name": "باوك سالونيكا",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=1029.png",
-        "Goal": 1
-      },
-      "Time-Start": "2025-02-13T23:00",
-      "Time-End": "2025-02-14T01:00",
-      "Team-Left": {
-        "Name": "ستياوا بوخارست",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=2041.png",
-        "Goal": 2
-      },
-      "Cup-Name": "الدوري الأوروبي - بلاي اوف",
-      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=573.png",
-      "Tv": "beIN SPORT 4",
-      "Mic": "سمير اليعقوبي",
-      "Match-Status": "انتهت",
-      "links": [
-        {
-          "label": "SD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/48.ts"
-        },
-        {
-          "label": "HD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/36.ts"
-        },
-        {
-          "label": "FHD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/4.ts"
-        }
-      ]
-    },
-    {
-      "Match-id": 4367562,
-      "Team-Right": {
-        "Name": "ألكمار",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=699.png",
-        "Goal": 4
-      },
-      "Time-Start": "2025-02-13T23:00",
-      "Time-End": "2025-02-14T01:00",
-      "Team-Left": {
-        "Name": "غلطة سراي",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=945.png",
-        "Goal": 1
-      },
-      "Cup-Name": "الدوري الأوروبي - بلاي اوف",
-      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=573.png",
-      "Tv": "beIN SPORT 2",
-      "Mic": "علي محمد علي",
-      "Match-Status": "انتهت",
-      "links": [
-        {
-          "label": "SD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/46.ts"
-        },
-        {
-          "label": "HD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/34.ts"
-        },
-        {
-          "label": "FHD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/2.ts"
-        }
-      ]
-    },
-    {
-      "Match-id": 4367560,
-      "Team-Right": {
-        "Name": "بورتو",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=887.png",
-        "Goal": 1
-      },
-      "Time-Start": "2025-02-13T23:00",
-      "Time-End": "2025-02-14T01:00",
-      "Team-Left": {
-        "Name": "روما",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=225.png",
-        "Goal": 1
-      },
-      "Cup-Name": "الدوري الأوروبي - بلاي اوف",
-      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=573.png",
-      "Tv": "beIN SPORT 1",
-      "Mic": "عصام الشوالي",
-      "Match-Status": "انتهت",
-      "links": [
-        {
-          "label": "SD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/45.ts"
-        },
-        {
-          "label": "HD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/33.ts"
-        },
-        {
-          "label": "FHD",
-          "link": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/1.ts"
-        }
-      ]
-    },
-    {
-      "Match-id": 4273800,
-      "Team-Right": {
-        "Name": "مودرن سبورت",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=50877.png",
-        "Goal": 0
-      },
-      "Time-Start": "2025-02-13T17:00",
-      "Time-End": "2025-02-13T19:00",
-      "Team-Left": {
-        "Name": "طلائع الجيش",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=8306.png",
-        "Goal": 0
-      },
-      "Cup-Name": "الدوري المصري",
-      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=552.png",
-      "Tv": "On time sport 1",
-      "Mic": "امير محروس",
-      "Match-Status": "انتهت",
-      "links": [
-        {
-          "label": "SD",
-          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/117.ts"
-        },
-        {
-          "label": "HD",
-          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/118.ts"
-        },
-        {
-          "label": "FHD",
-          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/560.ts"
-        }
-      ]
-    },
-    {
-      "Match-id": 4273799,
-      "Team-Right": {
-        "Name": "إنبي",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=8300.png",
-        "Goal": 1
-      },
-      "Time-Start": "2025-02-13T20:00",
-      "Time-End": "2025-02-13T22:00",
-      "Team-Left": {
-        "Name": "الاتحاد السكندري",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=8312.png",
-        "Goal": 1
-      },
-      "Cup-Name": "الدوري المصري",
-      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=552.png",
-      "Tv": "On time sport 1",
-      "Mic": "محمد رمضان",
-      "Match-Status": "انتهت",
-      "links": [
-        {
-          "label": "SD",
-          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/117.ts"
-        },
-        {
-          "label": "HD",
-          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/118.ts"
-        },
-        {
-          "label": "FHD",
-          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/560.ts"
-        }
-      ]
-    },
-    {
-      "Match-id": 4181682,
-      "Team-Right": {
-        "Name": "الأهلي",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=8946.png",
-        "Goal": 2
-      },
-      "Time-Start": "2025-02-13T20:30",
-      "Time-End": "2025-02-13T22:30",
-      "Team-Left": {
-        "Name": "النصر",
-        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=7549.png",
-        "Goal": 3
-      },
+      "Cup-id": 649,
       "Cup-Name": "الدوري السعودي",
       "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=649.png",
+      "Match-id": 4181683,
+      "Team-Right": {
+        "Name": "الهلال",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=5457.png",
+        "Goal": 0,
+        "Penalty": null
+      },
+      "Team-Left": {
+        "Name": "الرياض",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=12135.png",
+        "Goal": 0,
+        "Penalty": null
+      },
+      "Time-Start": "2025-02-14T20:00",
+      "Time-End": "2025-02-14T22:00",
+      "Time-Zone": "+03:00",
+      "Time-Now": -1,
       "Tv": "SSC SPORT 1",
-      "Mic": "فهد العتيبي",
-      "Match-Status": "انتهت",
+      "Mic": "مشاري القرني",
+      "Match-Url": "al-hilal-riyadh-vs-al-riyadh-sc",
+      "Match-Status": "لم تبدأ",
+      "Win-Info": null,
       "links": [
         {
           "label": "SD",
@@ -453,6 +297,108 @@
         {
           "label": "FHD",
           "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/53.ts"
+        }
+      ]
+    },
+    {
+      "Match-id": 4379035,
+      "Team-Right": {
+        "Name": "الطلبة",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=8244.png",
+        "Goal": 0
+      },
+      "Time-Start": "2025-02-14T14:00",
+      "Time-End": "2025-02-14T16:00",
+      "Team-Left": {
+        "Name": "ديالى",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=69086.png",
+        "Goal": 0
+      },
+      "Cup-Name": "الدوري العراقي",
+      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=6822.png",
+      "Tv": "العراقية الرياضية",
+      "Mic": "علي عنب",
+      "Match-Status": "لم تبدأ",
+      "links": [
+        {
+          "label": "SD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/563.ts"
+        },
+        {
+          "label": "HD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/564.ts"
+        },
+        {
+          "label": "FHD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/564.ts"
+        }
+      ]
+    },
+    {
+      "Match-id": 4379005,
+      "Team-Right": {
+        "Name": "القاسم",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=57093.png",
+        "Goal": 0
+      },
+      "Time-Start": "2025-02-14T17:00",
+      "Time-End": "2025-02-14T19:00",
+      "Team-Left": {
+        "Name": "دهوك",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=11272.png",
+        "Goal": 0
+      },
+      "Cup-Name": "الدوري العراقي",
+      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=6822.png",
+      "Tv": "العراقية الرياضية",
+      "Mic": "حسين الساعدي",
+      "Match-Status": "لم تبدأ",
+      "links": [
+        {
+          "label": "SD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/563.ts"
+        },
+        {
+          "label": "HD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/564.ts"
+        },
+        {
+          "label": "FHD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/564.ts"
+        }
+      ]
+    },
+    {
+      "Match-id": 4379026,
+      "Team-Right": {
+        "Name": "أربيل",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=8254.png",
+        "Goal": 0
+      },
+      "Time-Start": "2025-02-14T19:30",
+      "Time-End": "2025-02-14T21:30",
+      "Team-Left": {
+        "Name": "زاخو",
+        "Logo": "https://www.yanb8.com/api/assets/team-logo/?id=11273.png",
+        "Goal": 0
+      },
+      "Cup-Name": "الدوري العراقي",
+      "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=6822.png",
+      "Tv": "العراقية الرياضية",
+      "Mic": "جمال الدراجي",
+      "Match-Status": "لم تبدأ",
+      "links": [
+        {
+          "label": "SD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/563.ts"
+        },
+        {
+          "label": "HD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/564.ts"
+        },
+        {
+          "label": "FHD",
+          "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/564.ts"
         }
       ]
     }
