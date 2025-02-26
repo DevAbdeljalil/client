@@ -203,6 +203,157 @@
           ]
         }
       ]
+    },
+    {
+      "name": "إس إس سي سبورتس",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png",
+      "channels": [
+        {
+          "name": "إس إس سي سبورتس 1",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/53.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/61.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/63.ts"
+            }
+          ]
+        },
+        {
+          "name": "إس إس سي سبورتس 2",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/54.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/64.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/66.ts"
+            }
+          ]
+        },
+        {
+          "name": "إس إس سي سبورتس 3",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/55.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/67.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/69.ts"
+            }
+          ]
+        },
+        {
+          "name": "إس إس سي سبورتس 4",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/56.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/71.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/72.ts"
+            }
+          ]
+        },
+        {
+          "name": "إس إس سي سبورتس 5",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/57.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/74.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/75.ts"
+            }
+          ]
+        },
+        {
+          "name": "إس إس سي سبورتس EXTRA 1",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/58.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/76.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/76.ts"
+            }
+          ]
+        },
+        {
+          "name": "إس إس سي سبورتس EXTRA 2",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/59.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/78.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/79.ts"
+            }
+          ]
+        },
+        {
+          "name": "إس إس سي سبورتس EXTRA 3",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/60.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/82.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/80.ts"
+            }
+          ]
+        }
+      ]
     }
+    
   ]
 }
