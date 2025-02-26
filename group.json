@@ -1,11 +1,11 @@
 {
   "groups": [
     {
-      "name": "Bein Sports",
-      "logo": "http://example.com/beinsports_logo.png",
+      "name": "ي إن سبورتس",
+      "logo": "https://seekvectors.com/files/download/d2d525dc059eaeb26d94ea63e963f74e.png",
       "channels": [
         {
-          "name": "Bein Sports 1",
+          "name": "بي إن سبورتس 1",
           "qualities": [
             {
               "quality": "FHD",
@@ -22,7 +22,7 @@
           ]
         },
         {
-          "name": "Bein Sports 2",
+          "name": "بي إن سبورتس 2",
           "qualities": [
             {
               "quality": "FHD",
@@ -39,7 +39,7 @@
           ]
         },
         {
-          "name": "Bein Sports 3",
+          "name": "بي إن سبورتس 3",
           "qualities": [
             {
               "quality": "FHD",
@@ -56,7 +56,7 @@
           ]
         },
         {
-          "name": "Bein Sports 4",
+          "name": "بي إن سبورتس 4",
           "qualities": [
             {
               "quality": "FHD",
@@ -73,7 +73,7 @@
           ]
         },
         {
-          "name": "Bein Sports 5",
+          "name": "بي إن سبورتس 5",
           "qualities": [
             {
               "quality": "FHD",
@@ -90,7 +90,7 @@
           ]
         },
         {
-          "name": "Bein Sports 6",
+          "name": "بي إن سبورتس 6",
           "qualities": [
             {
               "quality": "FHD",
@@ -107,7 +107,7 @@
           ]
         },
         {
-          "name": "Bein Sports 7",
+          "name": "بي إن سبورتس 7",
           "qualities": [
             {
               "quality": "FHD",
@@ -124,7 +124,7 @@
           ]
         },
         {
-          "name": "Bein Sports News",
+          "name": "بي إن سبورتس نيوز",
           "qualities": [
             {
               "quality": "FHD",
@@ -141,7 +141,7 @@
           ]
         },
         {
-          "name": "Bein Sports Xtra 1",
+          "name": "بي إن سبورتس إكسترا 1",
           "qualities": [
             {
               "quality": "FHD",
@@ -158,7 +158,7 @@
           ]
         },
         {
-          "name": "Bein Sports Xtra 2",
+          "name": "بي إن سبورتس إكسترا 2",
           "qualities": [
             {
               "quality": "FHD",
@@ -175,7 +175,7 @@
           ]
         },
         {
-          "name": "Bein Sports Xtra 3",
+          "name": "بي إن سبورتس إكسترا 3",
           "qualities": [
             {
               "quality": "FHD",
