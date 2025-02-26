@@ -1,0 +1,197 @@
+{
+  "groups": [
+    {
+      "name": "Bein Sports",
+      "logo": "http://example.com/beinsports_logo.png",
+      "channels": [
+        {
+          "name": "Bein Sports 1",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/1.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/33.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/45.ts"
+            }
+          ]
+        },
+        {
+          "name": "Bein Sports 2",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/2.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/34.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/46.ts"
+            }
+          ]
+        },
+        {
+          "name": "Bein Sports 3",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/3.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/35.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/47.ts"
+            }
+          ]
+        },
+        {
+          "name": "Bein Sports 4",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/4.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/36.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/48.ts"
+            }
+          ]
+        },
+        {
+          "name": "Bein Sports 5",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/5.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/37.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/49.ts"
+            }
+          ]
+        },
+        {
+          "name": "Bein Sports 6",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/6.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/38.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/50.ts"
+            }
+          ]
+        },
+        {
+          "name": "Bein Sports 7",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/7.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/39.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/51.ts"
+            }
+          ]
+        },
+        {
+          "name": "Bein Sports News",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/92.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/44.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/44.ts"
+            }
+          ]
+        },
+        {
+          "name": "Bein Sports Xtra 1",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/18.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/42.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/43.ts"
+            }
+          ]
+        },
+        {
+          "name": "Bein Sports Xtra 2",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/19.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/43.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/44.ts"
+            }
+          ]
+        },
+        {
+          "name": "Bein Sports Xtra 3",
+          "qualities": [
+            {
+              "quality": "FHD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/20.ts"
+            },
+            {
+              "quality": "HD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/32.ts"
+            },
+            {
+              "quality": "SD",
+              "url": "http://tv3in1.online:8080/live/XFhme49yaZUQ/WqXGhUsBAQhH/32.ts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
