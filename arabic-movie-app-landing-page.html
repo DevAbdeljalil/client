@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سينما ستريم - حمّل الأفلام في أي وقت وأي مكان</title>
+    <style>
+        /* Reset and base styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: #0f1016;
+            color: #ffffff;
+            line-height: 1.6;
+        }
+        
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+        
+        /* Header styles */
+        header {
+            background-color: rgba(15, 16, 22, 0.95);
+            padding: 1.5rem 2rem;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        }
+        
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #e50914;
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+        }
+        
+        .nav-links a {
+            transition: all 0.3s ease;
+        }
+        
+        .nav-links a:hover {
+            color: #e50914;
+        }
+        
+        .cta-button {
+            background-color: #e50914;
+            color: white;
+            padding: 0.6rem 1.5rem;
+            border-radius: 4px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .cta-button:hover {
+            background-color: #f40612;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(229, 9, 20, 0.4);
+        }
+        
+        /* Hero section */
+        .hero {
+            height: 100vh;
+            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/api/placeholder/1200/800') center/cover no-repeat;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 0 2rem;
+        }
+        
+        .hero h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+            line-height: 1.2;
+        }
+        
+        .hero p {
+            font-size: 1.2rem;
+            max-width: 700px;
+            margin-bottom: 2rem;
+        }
+        
+        .hero-buttons {
+            display: flex;
+            gap: 1rem;
+        }
+        
+        .secondary-button {
+            background-color: rgba(255, 255, 255, 0.1);
+            color: white;
+            padding: 0.6rem 1.5rem;
+            border-radius: 4px;
+            font-weight: 600;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            transition: all 0.3s ease;
+        }
+        
+        .secondary-button:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+        
+        /* Features section */
+        .features {
+            max-width: 1200px;
+            margin: 5rem auto;
+            padding: 0 2rem;
+        }
+        
+        .section-title {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        
+        .section-title h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: #ffffff;
+        }
+        
+        .section-title p {
+            color: #b3b3b3;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+        
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+        
+        .feature-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            padding: 2rem;
+            transition: all 0.3s ease;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+        }
+        
+        .feature-icon {
+            font-size: 2.5rem;
+            color: #e50914;
+            margin-bottom: 1rem;
+        }
+        
+        .feature-card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .feature-card p {
+            color: #b3b3b3;
+        }
+        
+        /* App screenshots */
+        .app-preview {
+            background-color: #151720;
+            padding: 5rem 2rem;
+        }
+        
+        .screenshots {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 3rem;
+            flex-wrap: wrap;
+        }
+        
+        .screenshot {
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+            max-width: 300px;
+        }
+        
+        .screenshot:hover {
+            transform: scale(1.05);
+        }
+        
+        .screenshot img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        
+        /* Testimonials */
+        .testimonials {
+            max-width: 1200px;
+            margin: 5rem auto;
+            padding: 0 2rem;
+        }
+        
+        .testimonial-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+        
+        .testimonial-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            padding: 2rem;
+            position: relative;
+        }
+        
+        .quote {
+            font-size: 4rem;
+            position: absolute;
+            top: -10px;
+            right: 10px; /* Changed from left to right for RTL */
+            opacity: 0.2;
+            color: #e50914;
+        }
+        
+        .testimonial-text {
+            position: relative;
+            z-index: 1;
+            margin-bottom: 1.5rem;
+            font-style: italic;
+            color: #d4d4d4;
+        }
+        
+        .testimonial-author {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+        
+        .author-avatar {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            overflow: hidden;
+        }
+        
+        .author-avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .author-info h4 {
+            font-size: 1.1rem;
+        }
+        
+        .author-info p {
+            color: #b3b3b3;
+            font-size: 0.9rem;
+        }
+        
+        /* Download section */
+        .download {
+            background: linear-gradient(to left, #e50914, #ff5f58); /* Changed direction for RTL */
+            padding: 5rem 2rem;
+            text-align: center;
+        }
+        
+        .download h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .download p {
+            max-width: 700px;
+            margin: 0 auto 2rem;
+        }
+        
+        .store-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+        
+        .store-button {
+            background-color: rgba(0, 0, 0, 0.3);
+            display: flex;
+            align-items: center;
+            padding: 0.8rem 1.5rem;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+        
+        .store-button:hover {
+            background-color: rgba(0, 0, 0, 0.5);
+            transform: translateY(-5px);
+        }
+        
+        .store-icon {
+            font-size: 2rem;
+            margin-left: 0.5rem; /* Changed from margin-right for RTL */
+        }
+        
+        .store-text {
+            text-align: right; /* Changed from left for RTL */
+        }
+        
+        .store-text span {
+            display: block;
+            font-size: 0.8rem;
+        }
+        
+        .store-text strong {
+            font-size: 1.2rem;
+        }
+        
+        /* Footer */
+        footer {
+            background-color: #0a0b10;
+            padding: 3rem 2rem;
+        }
+        
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+        }
+        
+        .footer-column h3 {
+            color: #ffffff;
+            margin-bottom: 1.5rem;
+            font-size: 1.2rem;
+        }
+        
+        .footer-column ul {
+            list-style: none;
+        }
+        
+        .footer-column ul li {
+            margin-bottom: 0.8rem;
+        }
+        
+        .footer-column a {
+            color: #b3b3b3;
+            transition: all 0.3s ease;
+        }
+        
+        .footer-column a:hover {
+            color: #e50914;
+        }
+        
+        .social-icons {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .social-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+        
+        .social-icon:hover {
+            background-color: #e50914;
+            transform: translateY(-5px);
+        }
+        
+        .copyright {
+            text-align: center;
+            padding-top: 3rem;
+            color: #6c6c6c;
+            font-size: 0.9rem;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+            
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+            
+            .hero p {
+                font-size: 1rem;
+            }
+            
+            .hero-buttons {
+                flex-direction: column;
+            }
+            
+            .section-title h2 {
+                font-size: 2rem;
+            }
+            
+            .screenshots {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+        
+        /* RTL specific adjustments */
+        .nav-links {
+            margin-left: 0;
+            margin-right: auto;
+        }
+        
+        .store-button {
+            flex-direction: row-reverse;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <nav>
+            <div class="logo">سينما ستريم</div>
+            <div class="nav-links">
+                <a href="#features">المميزات</a>
+                <a href="#screenshots">التطبيق</a>
+                <a href="#testimonials">الآراء</a>
+                <a href="#download">التحميل</a>
+            </div>
+            <a href="#download" class="cta-button">ابدأ الآن</a>
+        </nav>
+    </header>
+    
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>حمّل الأفلام في أي وقت وأي مكان</h1>
+        <p>استمتع بتجربة تطبيق تحميل الأفلام المثالية مع آلاف العناوين، وجودة عالية الوضوح، ومشاهدة بدون إنترنت - كل ذلك في متناول يدك.</p>
+        <div class="hero-buttons">
+            <a href="#download" class="cta-button">حمّل الآن</a>
+            <a href="#features" class="secondary-button">استكشف المميزات</a>
+        </div>
+    </section>
+    
+    <!-- Features Section -->
+    <section class="features" id="features">
+        <div class="section-title">
+            <h2>لماذا تختار سينما ستريم؟</h2>
+            <p>تم تصميم تطبيقنا لمنحك أفضل تجربة مشاهدة أفلام مع ميزات قوية تميزنا عن غيرنا.</p>
+        </div>
+        
+        <div class="feature-grid">
+            <div class="feature-card">
+                <div class="feature-icon">📱</div>
+                <h3>المشاهدة بدون إنترنت</h3>
+                <p>قم بتحميل أفلامك المفضلة ومشاهدتها لاحقًا بدون اتصال بالإنترنت - مثالي للسفر!</p>
+            </div>
+            
+            <div class="feature-card">
+                <div class="feature-icon">🔍</div>
+                <h3>البحث الذكي</h3>
+                <p>اعثر بالضبط على ما تبحث عنه باستخدام خيارات البحث والتصفية القوية حسب النوع أو السنة أو التقييم.</p>
+            </div>
+            
+            <div class="feature-card">
+                <div class="feature-icon">📺</div>
+                <h3>جودة عالية الوضوح</h3>
+                <p>استمتع بأفلام بجودة 4K وعالية الوضوح مع بث مُحسّن بناءً على اتصالك.</p>
+            </div>
+            
+            <div class="feature-card">
+                <div class="feature-icon">🔄</div>
+                <h3>تحديثات منتظمة</h3>
+                <p>احصل على أحدث الإصدارات مع تحديثات المحتوى الأسبوعية وتنبيهات الأفلام الجديدة.</p>
+            </div>
+            
+            <div class="feature-card">
+                <div class="feature-icon">🔒</div>
+                <h3>تحميلات آمنة</h3>
+                <p>اطمئن مع تحميلاتنا الآمنة الخالية من الفيروسات وتجربة المشاهدة التي تركز على الخصوصية.</p>
+            </div>
+            
+            <div class="feature-card">
+                <div class="feature-icon">💾</div>
+                <h3>توفير المساحة</h3>
+                <p>تقنية الضغط الذكية لدينا توفر مساحة على جهازك دون المساس بالجودة.</p>
+            </div>
+        </div>
+    </section>
+    
+    <!-- App Screenshots -->
+    <section class="app-preview" id="screenshots">
+        <div class="section-title">
+            <h2>شاهد سينما ستريم في العمل</h2>
+            <p>ألق نظرة على واجهتنا الأنيقة وسهلة الاستخدام المصممة لتوفير أفضل تجربة لتصفح الأفلام.</p>
+        </div>
+        
+        <div class="screenshots">
+            <div class="screenshot">
+                <img src="/api/placeholder/300/600" alt="الشاشة الرئيسية للتطبيق">
+            </div>
+            <div class="screenshot">
+                <img src="/api/placeholder/300/600" alt="تفاصيل الفيلم">
+            </div>
+            <div class="screenshot">
+                <img src="/api/placeholder/300/600" alt="شاشة التحميل">
+            </div>
+        </div>
+    </section>
+    
+    <!-- Testimonials -->
+    <section class="testimonials" id="testimonials">
+        <div class="section-title">
+            <h2>ما يقوله مستخدمينا</h2>
+            <p>لا تأخذ كلمتنا فقط - إليك ما يعتقده عشاق الأفلام حول العالم عن سينما ستريم.</p>
+        </div>
+        
+        <div class="testimonial-grid">
+            <div class="testimonial-card">
+                <div class="quote">"</div>
+                <p class="testimonial-text">لقد غيّر سينما ستريم تمامًا طريقة مشاهدتي للأفلام. ميزة المشاهدة بدون إنترنت مثالية لتنقلاتي اليومية!</p>
+                <div class="testimonial-author">
+                    <div class="author-avatar">
+                        <img src="/api/placeholder/50/50" alt="صورة المستخدم">
+                    </div>
+                    <div class="author-info">
+                        <h4>هدى ك.</h4>
+                        <p>عاشقة أفلام</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="testimonial-card">
+                <div class="quote">"</div>
+                <p class="testimonial-text">كطالب سينما، كان الوصول إلى آلاف الأفلام بجودة عالية الوضوح أمرًا لا يقدر بثمن. أفضل تطبيق على الإطلاق!</p>
+                <div class="testimonial-author">
+                    <div class="author-avatar">
+                        <img src="/api/placeholder/50/50" alt="صورة المستخدم">
+                    </div>
+                    <div class="author-info">
+                        <h4>محمد ط.</h4>
+                        <p>طالب سينما</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="testimonial-card">
+                <div class="quote">"</div>
+                <p class="testimonial-text">ميزة البحث رائعة. يمكنني العثور على ما أرغب في مشاهدته في ثوانٍ. أوصي به بشدة!</p>
+                <div class="testimonial-author">
+                    <div class="author-avatar">
+                        <img src="/api/placeholder/50/50" alt="صورة المستخدم">
+                    </div>
+                    <div class="author-info">
+                        <h4>أحمد ر.</h4>
+                        <p>مستخدم دائم</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Download Section -->
+    <section class="download" id="download">
+        <h2>احصل على سينما ستريم اليوم</h2>
+        <p>انضم إلى ملايين عشاق الأفلام وابدأ رحلتك في عالم السينما مع تحميلنا المجاني.</p>
+        
+        <div class="store-buttons">
+            <a href="#" class="store-button">
+                <div class="store-text">
+                    <span>تحميل من</span>
+                    <strong>متجر التطبيقات</strong>
+                </div>
+                <div class="store-icon">
+                    <span>🍎</span>
+                </div>
+            </a>
+            
+            <a href="#" class="store-button">
+                <div class="store-text">
+                    <span>احصل عليه من</span>
+                    <strong>جوجل بلاي</strong>
+                </div>
+                <div class="store-icon">
+                    <span>🤖</span>
+                </div>
+            </a>
+            
+            <a href="#" class="store-button">
+                <div class="store-text">
+                    <span>تحميل لـ</span>
+                    <strong>ويندوز</strong>
+                </div>
+                <div class="store-icon">
+                    <span>💻</span>
+                </div>
+            </a>
+        </div>
+    </section>
+    
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-column">
+                <h3>سينما ستريم</h3>
+                <p>تجربة تحميل الأفلام المثالية لعشاق السينما في كل مكان.</p>
+                <div class="social-icons">
+                    <a href="#" class="social-icon">fb</a>
+                    <a href="#" class="social-icon">tw</a>
+                    <a href="#" class="social-icon">ig</a>
+                </div>
+            </div>
+            
+            <div class="footer-column">
+                <h3>روابط سريعة</h3>
+                <ul>
+                    <li><a href="#">الرئيسية</a></li>
+                    <li><a href="#features">المميزات</a></li>
+                    <li><a href="#screenshots">التطبيق</a></li>
+                    <li><a href="#testimonials">الآراء</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-column">
+                <h3>الدعم</h3>
+                <ul>
+                    <li><a href="#">مركز المساعدة</a></li>
+                    <li><a href="#">اتصل بنا</a></li>
+                    <li><a href="#">الأسئلة الشائعة</a></li>
+                    <li><a href="#">استكشاف الأخطاء وإصلاحها</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-column">
+                <h3>قانوني</h3>
+                <ul>
+                    <li><a href="#">شروط الخدمة</a></li>
+                    <li><a href="#">سياسة الخصوصية</a></li>
+                    <li><a href="#">حقوق النشر</a></li>
+                    <li><a href="#">DMCA</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="copyright">
+            <p>&copy; 2025 سينما ستريم. جميع الحقوق محفوظة.</p>
+        </div>
+    </footer>
+</body>
+</html>
