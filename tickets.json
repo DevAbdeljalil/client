@@ -1,38 +1,38 @@
 {
   "rooms": [
     {
-      "media_name": "Fast & Furious 9",
-      "media_content": "الليلة على الساعة 20h00، ويعاد على الساعة 00h00. سباق سيارات مليء بالإثارة مع دوم والعصابة!",
+      "media_name": "The Shrouds (2025)",
+      "media_content": "الليلة على الساعة 20h00، ويعاد على الساعة 00h00.",
       "media_time": "2h 25m",
       "media_coins": 50,
-      "media_image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2DyEk84XnbJEdPlGF43crxfdtHH.jpg",
+      "media_image": "https://www.themoviedb.org/t/p/w1280/6J4lPto3rjlHZwhIhCy9cOWNnqb.jpg",
       "media_trailer": "https://www.youtube.com/watch?v=_qyw6LC5pnE",
       "media_url": "https://yourserver.com/media/fast9.mp4"
     },
     {
-      "media_name": "The Notebook",
-      "media_content": "الليلة على الساعة 20h00، ويعاد على الساعة 00h00. قصة حب خالدة ستأسر قلبك.",
+      "media_name": "O'Dessa (2025)",
+      "media_content": "الليلة على الساعة 20h00، ويعاد على الساعة 00h00.",
       "media_time": "2h 3m",
       "media_coins": 30,
-      "media_image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "media_image": "https://www.themoviedb.org/t/p/w1280/jI6KVCPJhOMSuXp9Fb0NZlfHeLV.jpg",
       "media_trailer": "https://www.youtube.com/watch?v=FC6biTjEyZw",
       "media_url": "https://yourserver.com/media/notebook.mp4"
     },
     {
       "media_name": "The Conjuring",
-      "media_content": "الليلة على الساعة 20h00، ويعاد على الساعة 00h00. قصة مرعبة مع إد ولورين وارن.",
+      "media_content": "الليلة على الساعة 20h00، ويعاد على الساعة 00h00.",
       "media_time": "1h 52m",
       "media_coins": 40,
-      "media_image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "media_image": "https://www.themoviedb.org/t/p/w1280/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
       "media_trailer": "https://www.youtube.com/watch?v=k10ETZ41q5o",
       "media_url": "https://yourserver.com/media/conjuring.mp4"
     },
     {
-      "media_name": "Attack on Titan",
-      "media_content": "الليلة على الساعة 20h00، ويعاد على الساعة 00h00. معركة ملحمية للبشرية ضد العمالقة!",
-      "media_time": "24m (الحلقة الأولى)",
+      "media_name": "ODIEUSE (2025)",
+      "media_content": "الليلة على الساعة 20h00، ويعاد على الساعة 00h00.",
+      "media_time": "1h 52m",
       "media_coins": 10,
-      "media_image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+      "media_image": "https://www.themoviedb.org/t/p/w1280/suGgfOsVcOqb9bAsp1MYczmZFN7.jpg",
       "media_trailer": "https://www.youtube.com/watch?v=MGRm4IzK1SQ",
       "media_url": "https://yourserver.com/media/aot_ep1.mp4"
     }
